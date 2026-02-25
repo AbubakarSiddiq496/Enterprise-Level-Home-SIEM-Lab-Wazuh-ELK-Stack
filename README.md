@@ -30,6 +30,8 @@ Components:
 
 ## Installation Steps
 
+### Wazuh Server Installation
+
 curl -sO https://packages.wazuh.com/4.14/wazuh-install.sh
 sudo bash wazuh-install.sh -a
 
@@ -83,5 +85,3 @@ Successfully built and configured a SIEM lab capable of detecting and alerting o
 
 ## Author
 Abubakar Siddiq
-
-### Wazuh Server Installation
