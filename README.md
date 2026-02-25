@@ -1,3 +1,6 @@
+# wazuh-siem-lab
+Home SIEM Lab using Wazuh and ELK Stack deployed on VMware. Includes attack simulations, dashboards, and detection analysis.
+
 # Home SIEM Lab using Wazuh + ELK Stack
 
 ## Overview
@@ -26,5 +29,59 @@ Components:
 - VMware Workstation
 
 ## Installation Steps
+
+curl -sO https://packages.wazuh.com/4.14/wazuh-install.sh
+sudo bash wazuh-install.sh -a
+
+
+### Windows Agent Installation
+
+- Download Wazuh Agent
+- Install using Manager IP
+- Start service
+
+## Attack Simulations
+
+### Failed Login Detection
+
+Command:
+runas /user:fakeuser cmd
+
+Detection:
+- Security Event ID 4625 detected
+- Alert generated in Wazuh dashboard
+
+### Privilege Escalation
+
+net localgroup administrators hacker /add
+
+Detection:
+- Admin group modification alert triggered
+
+## Screenshots
+
+(Add your screenshots here)
+
+## Dashboard
+
+Shows:
+- Failed login attempts
+- User creation
+- System events
+- Security alerts
+
+## Outcome
+Successfully built and configured a SIEM lab capable of detecting and alerting on security threats.
+
+## Skills Gained
+- SIEM deployment
+- Security monitoring
+- Threat detection
+- Log analysis
+- Incident detection
+- Wazuh configuration
+
+## Author
+Abubakar Siddiq
 
 ### Wazuh Server Installation
