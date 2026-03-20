@@ -62,7 +62,33 @@ Detection:
 
 ## Screenshots
 
-(Add your screenshots here)
+### Wazuh Dashboard Overview
+![Dashboard](screenshots/wazuh-Login.png)
+![Dashboard](screenshots/wazuh-dashboard.png)
+
+### Agent Connected Status
+![Agent](screenshots/wazuh-agent.png)
+
+### Alerts Detected
+![Alerts](screenshots/wazuh-dashboard.png)
+
+### Login Failed
+![Alerts](screenshots/Failed-login-event.png)
+
+### Multiple Login attempt
+![Alerts](screenshots/Multiple-failed-login-event.png)
+
+### User Creation
+![IAM](screenshots/User-creation.png)
+![Alerts](screenshots/User-creation-event.png)
+
+### Privilege Escalation
+![PowerShell](screenshots/Privilege-escalation.png)
+![Alerts](screenshots/Privilege-escalation.png)
+
+### PowerShell Execution and Threat Protection
+![PowerShell](screenshots/PowerShell-execution.png)
+![Alerts](screenshots/Threat-Protection.png)
 
 ## Dashboard
 
