@@ -1,5 +1,5 @@
 # wazuh-siem-lab
-Home SIEM Lab using Wazuh and ELK Stack deployed on VMware. Includes attack simulations, dashboards, and detection analysis.
+Enterprise-Level Home SIEM Lab | Wazuh and ELK Stack deployed on VMware. Includes attack simulations, dashboards, and detection analysis.
 
 # Home SIEM Lab using Wazuh + ELK Stack
 
