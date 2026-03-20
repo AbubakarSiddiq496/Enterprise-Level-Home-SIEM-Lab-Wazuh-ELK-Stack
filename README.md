@@ -63,32 +63,32 @@ Detection:
 ## Screenshots
 
 ### Wazuh Dashboard Overview
-![Dashboard](screenshots/wazuh-Login.png)
-![Dashboard](screenshots/wazuh-dashboard.png)
+![Dashboard](Screenshots/wazuh-Login.png)
+![Dashboard](Screenshots/wazuh-dashboard.png)
 
 ### Agent Connected Status
-![Agent](screenshots/wazuh-agent.png)
+![Agent](Screenshots/wazuh-agent.png)
 
 ### Alerts Detected
-![Alerts](screenshots/wazuh-dashboard.png)
+![Alerts](Screenshots/wazuh-dashboard.png)
 
 ### Login Failed
-![Alerts](screenshots/Failed-login-event.png)
+![Alerts](Screenshots/Failed-login-event.png)
 
 ### Multiple Login attempt
-![Alerts](screenshots/Multiple-failed-login-event.png)
+![Alerts](Screenshots/Multiple-failed-login-event.png)
 
 ### User Creation
-![IAM](screenshots/User-creation.png)
-![Alerts](screenshots/User-creation-event.png)
+![IAM](Screenshots/User-creation.png)
+![Alerts](Screenshots/User-creation-event.png)
 
 ### Privilege Escalation
-![PowerShell](screenshots/Privilege-escalation.png)
-![Alerts](screenshots/Privilege-escalation.png)
+![PowerShell](Screenshots/Privilege-escalation.png)
+![Alerts](Screenshots/Privilege-escalation.png)
 
 ### PowerShell Execution and Threat Protection
-![PowerShell](screenshots/PowerShell-execution.png)
-![Alerts](screenshots/Threat-Protection.png)
+![PowerShell](Screenshots/PowerShell-execution.png)
+![Alerts](Screenshots/Threat-Protection.png)
 
 ## Dashboard
 
