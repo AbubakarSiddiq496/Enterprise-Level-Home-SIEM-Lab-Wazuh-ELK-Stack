@@ -79,7 +79,7 @@ Detection:
 ![Alerts](Screenshots/Multiple-failed-login-event.png)
 
 ### User Creation
-![IAM](Screenshots/User-creation.png)
+![IAM](Screenshots/User creation.png)
 ![Alerts](Screenshots/User-creation-event.png)
 
 ### Privilege Escalation
@@ -88,7 +88,7 @@ Detection:
 
 ### PowerShell Execution and Threat Protection
 ![PowerShell](Screenshots/PowerShell-execution.png)
-![Alerts](Screenshots/Threat-Protection.png)
+![Alerts](Screenshots/Threat-Protection-event.png)
 
 ## Dashboard
 
